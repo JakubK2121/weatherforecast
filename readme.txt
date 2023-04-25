@@ -1,0 +1,1 @@
+The program functions as a weather forecast for the upcoming days. To ensure proper functionality of the program, you need to use the API from the website https://www.weatherapi.com/. The free plan includes 1,000,000 calls per month.
